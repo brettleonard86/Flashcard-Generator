@@ -1,0 +1,24 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "flashcard generator project",
+  "main": "index.js",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "uncaught": "0.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brettleonard86/Flashcard-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brettleonard86/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/brettleonard86/Flashcard-Generator#readme"
+}

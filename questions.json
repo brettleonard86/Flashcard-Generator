@@ -1,0 +1,67 @@
+[
+  {
+    "type": "BasicCard",
+    "front": "Who was the first president of the United States?",
+    "back": "george washington"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "we the people are the first three words of the Constitution.",
+    "cloze": "we the people"
+  },
+  {
+    "type": "BasicCard",
+    "front": "What do we call the first ten amendments to the Constitution?",
+    "back": "bill of rights"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "The president is in charge of the executive branch?",
+    "cloze": "president"
+  },
+  {
+    "type": "BasicCard",
+    "front": "What is the supreme law of the land?",
+    "back": "constitution"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Who is on the Five dollar bill",
+    "back": "abraham lincoln"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "We elect a President for 4 years.",
+    "cloze": "4"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "If both the President and Vice President can no longer serve as President, the speaker of the house takes over the Presidency.",
+    "cloze": "speaker of the house"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Who was the first basketball coach at the Univeristy of Kansas?",
+    "back": "james naismith"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Where are the Royals from?",
+    "back": "kansas city"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Mike Moustakas plays third base for the Royals.",
+    "cloze": "third base"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Eric Hosmer plays first base for the Royals.",
+    "cloze": "first base"
+  },
+  {
+    "type": "BasicCard",
+    "front": "What is 10 * 10?",
+    "back": "100"
+  }
+]
